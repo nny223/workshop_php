@@ -48,7 +48,7 @@ include("layout/sidebar.php");
               <span class="info-box-icon bg-danger elevation-1"><i class="fas fa-thumbs-up"></i></span>
 
               <div class="info-box-content">
-                <span class="info-box-text">Likes</span>
+                <span class="info-box-text">Like</span>
                 <span class="info-box-number">41,410</span>
               </div>
               <!-- /.info-box-content -->
